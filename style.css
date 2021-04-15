@@ -1,16 +1,20 @@
+/* Creating global variables */
 :root {
     --black: #000000;
     --darkgrey: #212121;
     --brand: #AD66FA;
 }
 
+/* General resets */
 *, html {
     padding: 0;
     margin: 0;
     background-color: var(--black);
     overflow: hidden;
+    font-family: 'IM Fell Double Pica SC', serif;
 }
 
+/* Styling */
 .logo {
     height: 30rem;
 }

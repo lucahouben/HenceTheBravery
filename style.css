@@ -9,7 +9,6 @@
     margin: 0;
     background-color: var(--black);
     overflow: hidden;
-    height: 100vh;
 }
 
 .logo {
@@ -20,6 +19,7 @@
     display: grid;
     justify-content: center;
     align-items: center;
+    height: 100vh;
 }
 
 .wrapper h2 {

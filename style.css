@@ -47,6 +47,8 @@
 
 body {
     padding: 5rem;
+    max-width: 992px;
+    margin: 0 auto;
 }
 
 /* Header */
